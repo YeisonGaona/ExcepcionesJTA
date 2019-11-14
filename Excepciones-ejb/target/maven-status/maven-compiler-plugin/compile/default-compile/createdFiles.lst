@@ -1,0 +1,13 @@
+Entity\EstudianteMateria_.class
+Interfaces\AbstractFacade.class
+Entity\Materia_.class
+Entity\EstudianteMateria.class
+EJB\EstudianteFacade.class
+Entity\Materia.class
+EJB\MateriaFacade.class
+EJB\EstudianteMateriaFacade.class
+Interfaces\EstudianteMateriaFacadeLocal.class
+Interfaces\MateriaFacadeLocal.class
+Entity\Estudiante_.class
+Entity\Estudiante.class
+Interfaces\EstudianteFacadeLocal.class
